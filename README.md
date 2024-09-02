@@ -22,7 +22,7 @@
                     announcements and event notifications as well as find the required resources for exams preparation.
   
 - **Tech Stack:** React.js,Node.js, MongoDB, Bootstrap,Django
-- [GitHub Repository]( https://github.com/username/project1](https://github.com/akshaypatra/College-Community-V0.2 ) | [Live Demo]( https://project1.live](https://akshaypatra.github.io/College-Community-V0.2/ )
+- [GitHub Repository](https://github.com/akshaypatra/College-Community-V0.2 ) | [Live Demo]( https://akshaypatra.github.io/College-Community-V0.2/ )
   
 
 

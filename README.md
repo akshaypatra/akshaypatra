@@ -1,7 +1,7 @@
 
 - Hi there, I'm Akshay Patra 👋
 
-##🚀 About Me
+## 🚀 About Me
 
 - 🎓 I'm a Computer Science student at MIT School of Computing, passionate about full-stack development and problem-solving.
 - 💻 I enjoy working with modern web technologies, including **React.js, Django, Node.js, MongoDB, Bootstrap, and MySQL**.
@@ -22,7 +22,7 @@
                     announcements and event notifications as well as find the required resources for exams preparation.
   
 - **Tech Stack:** React.js,Node.js, MongoDB, Bootstrap,Django
-- [GitHub Repository](https://github.com/username/project1](https://github.com/akshaypatra/College-Community-V0.2)) | [Live Demo]([https://project1.live](https://akshaypatra.github.io/College-Community-V0.2/))
+- [GitHub Repository]( https://github.com/username/project1](https://github.com/akshaypatra/College-Community-V0.2 ) | [Live Demo]( https://project1.live](https://akshaypatra.github.io/College-Community-V0.2/ )
   
 
 

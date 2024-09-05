@@ -24,7 +24,11 @@
 - **Tech Stack:** React.js,Node.js, MongoDB, Bootstrap,Django
 - [GitHub Repository](https://github.com/akshaypatra/College-Community-V0.2 ) | [Live Demo]( https://akshaypatra.github.io/College-Community-V0.2/ )
   
-
+## Chat_application
+- **Description:** Its a web application for  texting with proper authetication and privacy.
+  
+- **Tech Stack:** React.js,Django, Django-Rest-Framework,MaterialUI,Bootstrap
+- [GitHub Repository](https://github.com/akshaypatra/Chat-Application)
 
 
 ## 📫 Let's Connect

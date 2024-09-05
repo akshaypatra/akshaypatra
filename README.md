@@ -1,5 +1,5 @@
 
-- Hi there, I'm Akshay Patra 👋
+## Hi there, I'm Akshay Patra 👋
 
 ## 🚀 About Me
 

@@ -9,12 +9,12 @@
 - 💡 I love to work on real life  projects and am always eager to learn new technologies.
 
 ## 🔧 Technologies & Tools
-- **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS
+- **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS ,MaterialUI ,AXIOS
 - **Backend:** Node.js, Django, Express.js, REST APIs
-- **Database:** MySQL, MongoDB
+- **Database:** MySQL, MongoDB,PostgreSQL
 - **Version Control:** Git, GitHub
 - **Deployment:** Render.com, Vercel ,Github Pages
-- **Other Tools:** Postman, Thunder Client, Figma, VS Code
+- **Other Tools:** Postman, Thunder Client,  VS Code
 
 ## 🛠️ Projects
 ### College Community V0.2
@@ -24,7 +24,7 @@
 - **Tech Stack:** React.js,Node.js, MongoDB, Bootstrap,Django
 - [GitHub Repository](https://github.com/akshaypatra/College-Community-V0.2 ) | [Live Demo]( https://akshaypatra.github.io/College-Community-V0.2/ )
   
-## Chat_application
+### Chat_application
 - **Description:** Its a web application for  texting with proper authetication and privacy.
   
 - **Tech Stack:** React.js,Django, Django-Rest-Framework,MaterialUI,Bootstrap

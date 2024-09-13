@@ -34,6 +34,16 @@
 - [GitHub Repository](https://github.com/akshaypatra/Little-Lemon-Restaurant)
 
 
+### MyBLOG website 
+- **Description:** My Blog Website, a modern and responsive blog platform built with React and Node.js.
+    This project showcases a dynamic blogging platform where users can create, read, update, and delete blog posts.
+    The website is designed to provide a clean and user-friendly interface for both readers and authors.
+  
+- **Tech Stack:** React.js,Node.js,Express,MongoDB
+  
+- [GitHub Repository](https://github.com/akshaypatra/My-blog-website)
+
+
 
 ### MyNotebook 
 - **Description:** MyNotebook is Full stack web application made using MERN stack.
@@ -42,6 +52,8 @@
 - **Tech Stack:** React.js,Node.js,Express,MongoDB,Bootstrap
   
 - [GitHub Repository](https://github.com/akshaypatra/My_notebook-frontend)
+
+
 
 
 

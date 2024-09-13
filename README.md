@@ -34,6 +34,17 @@
 - [GitHub Repository](https://github.com/akshaypatra/Little-Lemon-Restaurant)
 
 
+
+### MyNotebook 
+- **Description:** MyNotebook is Full stack web application made using MERN stack.
+     Its a CRUD application where anyone can login with valid credentials and read,add,delete and update their notes .
+  
+- **Tech Stack:** React.js,Node.js,Express,MongoDB,Bootstrap
+  
+- [GitHub Repository](https://github.com/akshaypatra/My_notebook-frontend)
+
+
+
 ### Chat_application
 - **Description:** Its a web application for  texting with proper authetication and privacy.
   

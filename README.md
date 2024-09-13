@@ -23,11 +23,22 @@
   
 - **Tech Stack:** React.js,Node.js, MongoDB, Bootstrap,Django
 - [GitHub Repository](https://github.com/akshaypatra/College-Community-V0.2 ) | [Live Demo]( https://akshaypatra.github.io/College-Community-V0.2/ )
+
+
+### Little lemon Restaurant
+- **Description:** This project is a responsive and user-friendly restaurant website built using modern web development technologies.
+    It provides a seamless browsing experience for customers looking to explore the menu, make reservations, and learn more about the restaurant.
   
+- **Tech Stack:** Django, Django-Rest-Framework,HTML5,CSS3,Bootstrap
+
+- [GitHub Repository](https://github.com/akshaypatra/Little-Lemon-Restaurant)
+
+
 ### Chat_application
 - **Description:** Its a web application for  texting with proper authetication and privacy.
   
 - **Tech Stack:** React.js,Django, Django-Rest-Framework,MaterialUI,Bootstrap
+  
 - [GitHub Repository](https://github.com/akshaypatra/Chat-Application)
 
 

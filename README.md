@@ -67,8 +67,8 @@
 
 
 ## 📫 Let's Connect
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/akshay-patra-6a8b67259/))
-- **Email:** [youremail@example.com](mailto:akshay.patra114@gmail.com)
+- **LinkedIn:** [Akshay Patra](https://www.linkedin.com/in/akshay-patra-6a8b67259/)
+- **Email:** [akshay.patra114@example.com](mailto:akshay.patra114@gmail.com)
 
 Thanks for stopping by! 😄
 

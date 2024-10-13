@@ -17,6 +17,15 @@
 - **Other Tools:** Postman, Thunder Client,  VS Code
 
 ## 🛠️ Projects
+
+### Learning Path Dashboard
+- **Description:** It is an interactive platform designed to enhance the educational experience for both learners and educators by providing a structured,
+                    user-friendly interface for managing and navigating through educational content.
+  
+- **Tech Stack:** React.js,Django, PostgreSQL, Bootstrap,Material UI
+- [GitHub Repository](https://github.com/akshaypatra/LearningPathDashboard-frontend) | [Live Demo](https://akshaypatra.github.io/LearningPathDashboard-frontend/)
+
+
 ### College Community V0.2
 - **Description:** Its a web application for college students where they can connect with other students ,post there queries ,check daily
                     announcements and event notifications as well as find the required resources for exams preparation.

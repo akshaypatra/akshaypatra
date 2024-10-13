@@ -66,14 +66,6 @@
 
 
 
-### Chat_application
-- **Description:** Its a web application for  texting with proper authetication and privacy.
-  
-- **Tech Stack:** React.js,Django, Django-Rest-Framework,MaterialUI,Bootstrap
-  
-- [GitHub Repository](https://github.com/akshaypatra/Chat-Application)
-
-
 ## 📫 Let's Connect
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/akshay-patra-6a8b67259/))
 - **Email:** [youremail@example.com](mailto:akshay.patra114@gmail.com)

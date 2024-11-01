@@ -10,7 +10,7 @@
 
 ## 🔧 Technologies & Tools
 - **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS ,MaterialUI ,AXIOS
-- **Backend:** Node.js, Django, Express.js, REST APIs
+- **Backend:**  Django,Node.js, Express.js, REST APIs
 - **Database:** MySQL, MongoDB,PostgreSQL
 - **Version Control:** Git, GitHub
 - **Deployment:** Render.com, Vercel ,Github Pages
@@ -34,7 +34,7 @@
 - [GitHub Repository](https://github.com/akshaypatra/College-Community-V0.2 ) | [Live Demo]( https://akshaypatra.github.io/College-Community-V0.2/ )
 
 
-### Little lemon Restaurant
+###  Restaurant Website
 - **Description:** This project is a responsive and user-friendly restaurant website built using modern web development technologies.
     It provides a seamless browsing experience for customers looking to explore the menu, make reservations, and learn more about the restaurant.
   

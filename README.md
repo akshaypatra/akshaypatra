@@ -49,8 +49,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaypatra&layout=compact&theme=radical)
 
+<!-- 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=akshaypatra&theme=radical)
-
+-->
 
 
 ## 📫 Let's Connect

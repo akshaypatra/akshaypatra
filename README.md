@@ -45,10 +45,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshaypatra&show_icons=true&theme=radical)
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=akshaypatra&color=blue)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaypatra&layout=compact&theme=radical)
-
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=akshaypatra&theme=radical)
 

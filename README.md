@@ -40,7 +40,8 @@
 
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshaypatra&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaypatra&layout=compact&theme=radical)
+
 
 
 

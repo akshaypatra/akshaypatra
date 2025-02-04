@@ -31,13 +31,18 @@
                     announcements and event notifications as well as find the required resources for exams preparation.
   
 - **Tech Stack:** React.js,Node.js, MongoDB, Bootstrap,Django
-- [GitHub Repository](https://github.com/akshaypatra/College-Community-V0.2 ) 
+- [GitHub Repository](https://github.com/akshaypatra/College-Community-V0.2 )
+
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshaypatra&show_icons=true&theme=radical)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshaypatra&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshaypatra&theme=radical)
+
+
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=akshaypatra&theme=radical)
 

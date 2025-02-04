@@ -34,13 +34,12 @@
 - [GitHub Repository](https://github.com/akshaypatra/College-Community-V0.2 ) 
 
 
-###  Restaurant Website
-- **Description:** This project is a responsive and user-friendly restaurant website built using modern web development technologies.
-    It provides a seamless browsing experience for customers looking to explore the menu, make reservations, and learn more about the restaurant.
-  
-- **Tech Stack:** Django, Django-Rest-Framework,HTML5,CSS3,Bootstrap
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshaypatra&show_icons=true&theme=radical)
 
-- [GitHub Repository](https://github.com/akshaypatra/Little-Lemon-Restaurant)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshaypatra&theme=radical)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=akshaypatra&theme=radical)
 
 
 

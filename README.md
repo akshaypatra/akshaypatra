@@ -32,6 +32,11 @@
 - **Tech Stack:** React.js,Django, PostgreSQL, Bootstrap,Material UI
 - [GitHub Repository](https://github.com/akshaypatra/LearningPathDashboard-frontend) | [Live Demo](https://akshaypatra.github.io/LearningPathDashboard-frontend/)
 
+### Dimagi Dangal Quiz App
+- **Description:** The Dimagi Dangal Quiz App is an interactive and time-bound online quiz platform   ensuring fair play and security. This application provides a smooth and user-friendly experience for users to participate in quizzes across various topics while preventing unethical practices like copying or sharing questi
+  
+- **Tech Stack:** React.js,Javascript,Email.js, Python3 , Pandas, Imaplib ,CSS3 , HTML5 
+- [GitHub Repository](https://github.com/akshaypatra/Quiz_App) [Live Demo](https://dimaagi-dangal-v2.vercel.app/)
 
 ### College Community V0.2
 - **Description:** Its a web application for college students where they can connect with other students ,post there queries ,check daily
@@ -56,7 +61,7 @@
 
 ## 📫 Let's Connect
 - **LinkedIn:** [Akshay Patra](https://www.linkedin.com/in/akshay-patra-6a8b67259/)
-- **Email:** [akshay.patra114@example.com](mailto:akshay.patra114@gmail.com)
+- **Email:** [akshay.patra114@gmail.com](mailto:akshay.patra114@gmail.com)
 
 Thanks for stopping by! 😄
 

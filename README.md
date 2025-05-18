@@ -25,6 +25,12 @@
 
 ## 🛠️ Projects
 
+### Classify - Student management system 
+- **Description:** A full-stack web application for educational institutions to streamline attendance, classroom management, and student-teacher communication.
+  
+- **Tech Stack:** React.js,Django,DRF, MySQL, Bootstrap
+- [GitHub Repository](https://github.com/akshaypatra/Student-Management-System) | [Live Demo](https://classify-smoky.vercel.app/)
+
 ### Learning Path Dashboard
 - **Description:** It is an interactive platform designed to enhance the educational experience for both learners and educators by providing a structured,
                     user-friendly interface for managing and navigating through educational content.
@@ -38,12 +44,7 @@
 - **Tech Stack:** React.js,Javascript,Email.js, Python3 , Pandas, Imaplib ,CSS3 , HTML5 
 - [GitHub Repository](https://github.com/akshaypatra/Quiz_App) | [Live Demo](https://dimaagi-dangal-v2.vercel.app/)
 
-### College Community V0.2
-- **Description:** Its a web application for college students where they can connect with other students ,post there queries ,check daily
-                    announcements and event notifications as well as find the required resources for exams preparation.
-  
-- **Tech Stack:** React.js,Node.js, MongoDB, Bootstrap,Django
-- [GitHub Repository](https://github.com/akshaypatra/College-Community-V0.2 )
+
 
 
 ## Others

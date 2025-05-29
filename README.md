@@ -9,7 +9,8 @@
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=akshaypatra&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshaypatra&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshaypatra&show_icons=true&theme=radical&cache_seconds=1800)
+
 
 ## 🚀 Tech Stack & Tools  
 

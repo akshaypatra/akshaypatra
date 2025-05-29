@@ -22,6 +22,8 @@
 ### ⚙️ Other Tools  
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  ![Thunder Client](https://img.shields.io/badge/Thunder%20Client-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 
+![snake gif](https://github.com/your_username/your_username/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 🛠️ Projects
 

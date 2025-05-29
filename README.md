@@ -7,6 +7,8 @@
 - 💻 I enjoy working with modern web technologies and solving data structure problems
 - 💡 I love to work on real life  projects and am always eager to learn new technologies.
 
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=akshaypatra&theme=radical)
+
 ## 🚀 Tech Stack & Tools  
 
 ### 🖥️ Development 
@@ -21,8 +23,6 @@
 
 ### ⚙️ Other Tools  
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  ![Thunder Client](https://img.shields.io/badge/Thunder%20Client-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-
-![snake gif](https://github.com/your_username/your_username/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🛠️ Projects
@@ -57,9 +57,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaypatra&layout=compact&theme=radical)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=akshaypatra&theme=radical)
 
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 📫 Let's Connect
 - **LinkedIn:** [Akshay Patra](https://www.linkedin.com/in/akshay-patra-6a8b67259/)

@@ -55,12 +55,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaypatra&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=your_username&theme=radical)
-
-
-<!-- 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=akshaypatra&theme=radical)
--->
+
 
 
 ## 📫 Let's Connect

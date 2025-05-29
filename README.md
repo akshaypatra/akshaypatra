@@ -9,6 +9,8 @@
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=akshaypatra&theme=radical)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshaypatra&show_icons=true&theme=radical)
+
 ## 🚀 Tech Stack & Tools  
 
 ### 🖥️ Development 
@@ -51,7 +53,6 @@
 
 ## Others
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshaypatra&show_icons=true&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akshaypatra&color=blue)
 

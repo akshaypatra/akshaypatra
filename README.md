@@ -30,6 +30,12 @@
 
 ## 🛠️ Projects
 
+### BeejNex - AI-Driven Oilseed Value Chain Platform
+- **Description:** BeejNex is an AI-powered end-to-end value chain support platform for oilseeds, designed to connect and empower all key stakeholders involved in the journey from seed to shelf.The platform leverages artificial intelligence, real-time data, geospatial mapping, and analytics to improve decision-making, transparency, and efficiency across India’s oilseed ecosystem.
+  
+- **Tech Stack:** OpenAI, React.js, Django, DRF, Google MAP APIs, PostgreSQL, MatrialUI, Bootstrap
+- [GitHub Repository](https://github.com/akshaypatra/BeejNex)
+
 ### Classify - Student management system 
 - **Description:** A full-stack web application for educational institutions to streamline attendance, classroom management, and student-teacher communication.
   

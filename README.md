@@ -6,7 +6,7 @@
 - 🎓 I'm a Computer Science student at MIT School of Computing, passionate about full-stack development and problem-solving.
 - 💻 I enjoy working with modern web technologies and solving data structure problems
 - 💡 I love to work on real life  projects and am always eager to learn new technologies.
-- 
+
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=akshaypatra&theme=radical&no-cache=1)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshaypatra&show_icons=true&theme=radical&v=2)
